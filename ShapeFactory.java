@@ -6,7 +6,7 @@ public class ShapeFactory {
             return new Circle();
         }
         else if(shapetype.equalsIgnoreCase("Rectangle")){
-            return new Circle();
+            return new Rectangle();
         }
         else return null;
     }
