@@ -102,6 +102,6 @@ int main()
 	character = director.CreateCharacter();
 	character->DisplayParts();
 
-	std::cout<< "hi" << std:endl;
+
 	return 0;
 }
